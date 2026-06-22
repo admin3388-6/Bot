@@ -1,6 +1,7 @@
-fastapi
-uvicorn[standard]
-python-multipart
-edge-tts
-requests
-websockets
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+edge-tts==6.1.10
+requests==2.31.0
+websockets==12.0
+pytchat==0.5.5
